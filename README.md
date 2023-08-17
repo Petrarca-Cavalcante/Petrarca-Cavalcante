@@ -6,10 +6,7 @@
 ### <div align="center">Eu sou Petrarca, desenvolvedor Full Stack 👨‍💻 Em busca da primeira vaga🚀</div>  
   
 
-- 🌱 Atualmente estudando BackEnd   
-  
 
-- ⚡ Fun fact: The cake is a lie!!!  
   
 
 <br/>  
