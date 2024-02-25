@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Eu sou Petrarca, desenvolvedor Full Stack 👨‍💻 Em busca da primeira vaga🚀</div>  
+### <div align="center">Eu sou Petrarca, desenvolvedor Full Stack 👨‍💻 </div>  
   
 
 
